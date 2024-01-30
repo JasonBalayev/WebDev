@@ -1,7 +1,7 @@
 import { Link } from "gatsby";
 import React from "react";
 import Layout from '../pages/components/Layout'
-import styles from './styles/format.css'
+import styles from '..pages/styles/format.css'
 
 export default function Home() {
   return (
